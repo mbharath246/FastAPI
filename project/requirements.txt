@@ -1,0 +1,5 @@
+sqlalchemy
+uvicorn
+passlib
+bcrypt
+python-jose
